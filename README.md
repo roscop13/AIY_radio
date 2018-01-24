@@ -1,5 +1,5 @@
 # AIY_radio
-this is a voice vcontrolled internet radio for raspberry pi based on the raspiaudio.com shield (Google AIY voice kit compatible), I'm the manufactuer of the shield https://www.raspiaudio.com/raspiaudio-ayi and this is an example of project with it, it could be also used with USB audio devices.
+this is a voice controlled internet radio for raspberry pi based on the raspiaudio.com shield (Google AIY voice kit compatible), I'm the manufactuer of the shield https://www.raspiaudio.com/raspiaudio-ayi and this is an example of project with it, it could be also used with USB audio devices.
 
 Hardware requirement: 
 -Raspberry Pi 3
